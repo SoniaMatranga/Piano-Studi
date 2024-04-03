@@ -1,0 +1,27 @@
+
+.navbar{
+    background-color: rgb(111, 143, 111);
+}
+
+
+ .custom-row{
+     background-color: rgba(211, 210, 210, 0.855); 
+     border-bottom: 1px solid white;
+     height: 45px
+} 
+.first-row{
+    border-bottom: 2px solid black; 
+}
+
+ .studyplan  {
+    overflow-y: scroll;
+    height: 1px;
+    
+} 
+
+
+
+
+
+
+ 
